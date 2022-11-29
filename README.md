@@ -20,4 +20,4 @@ Fixes pending:
 
 8.-No need for an extra P tag on the anchor link for WebStudio in the footer. (Done)
 
-9.-Add BR on the address, before ''United States''.
+9.-Add BR on the address, before ''United States''. (Done)
